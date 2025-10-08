@@ -1,5 +1,4 @@
-# Financial-Tracker
-# Finance Tracker
+# Financial-Tracker💵
 
 A modern, full-stack web application for tracking and managing personal finances.
 
